@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PAGINA OSCAR</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+     
+    <div class="wrapper">
+        <header class="header-mobile"> <!-- esto iria en las versiones de celulares, por eso hacemos otro header -->
+            <h1 class="logo">Oscar Paseo de Compras "La topadora"</h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>        
+            </button>
+        </header>
+        <aside> <!--  Esto va a contener la parte de la izquierda de la pagina -->
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>        
+            </button>
+            <header>
+                <h1 class="logo">Oscar Paseo de Compras "La topadora"</h1>
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i> Todos los productos </button>
+                    </li>
+                    <li>
+                        <button id="abrigos" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Abrigos</button>
+                    </li>
+                    <li>
+                        <button id="camisas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Camisas</button>
+                    </li>
+                    <li>
+                        <button id="remeras" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Remeras</button>
+                    </li>
+                    <li>
+                        <button id="jeans" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Jeans</button>
+                    </li>
+                    <li>
+                        <button id="zapa-lacoste" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Zapatillas Lacoste</button>
+                    </li>
+                    <li>
+                        <button id="zapa-topper" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Zapatillas Topper</button>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito" href="./carrito.html"> <!--Esto no es un boton porque me lleva a una pagina diferente -->
+                            <i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span>  
+                        </a>
+                    </li> 
+                </ul>
+            </nav>
+            <footer>
+                <p class="texto-footer">© 2023 La patria financiera</p>
+            </footer>
+        </aside>
+
+        <main> <!-- Esto va a contener la parte de la derecha de la pagina -->
+            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+            <div id="contenedor-productos" class="contenedor-productos">
+                    <!--Esto se va a rellenar con JS-->
+            </div>
+
+        </main>
+
+    </div>
+
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/menu.js"></script>
+</body>
+</html>

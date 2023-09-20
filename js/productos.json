@@ -1,0 +1,242 @@
+[
+    
+    {
+        "id": "canguro raider 1",
+        "titulo": "Canguro Raider azul",
+        "imagen": "./img/RAIDER/RAIDER (5).jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "canelon raider 2",
+        "titulo": "Abrigo Raider canelón blanco",
+        "imagen": "./img/RAIDER/RAIDER (1).jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "canelon raider 3",
+        "titulo": "Abrigo Raider canelón azul",
+        "imagen": "./img/RAIDER/RAIDER (2).jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "canguro raider 4",
+        "titulo": "Canguro Raider gris topo",
+        "imagen": "./img/RAIDER/RAIDER (4).jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "canguro raider 5",
+        "titulo": "Canguro Raider negro",
+        "imagen": "./img/RAIDER/RAIDER (6).jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "oxford",
+        "titulo": "Abrigo Oxford canguro abierto negro",
+        "imagen": "./img/OXFORD/OXFORD (3).jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    
+    {
+        "id": "camisa oxford 1",
+        "titulo": "camisa oxford azul con rayas rojas",
+        "imagen": "./img/OXFORD/OXFORD (1).jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camisa oxford 2",
+        "titulo": "camisa oxford azul con rayas blancas",
+        "imagen": "./img/OXFORD/OXFORD (4).jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camisa oxford 3",
+        "titulo": "camisa oxford a cuadros con rayas blancas y rojas",
+        "imagen": "./img/OXFORD/OXFORD.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 1000
+    },
+
+    
+    {
+        "id": "remera levis uva",
+        "titulo": "Remera Levis color lila",
+        "imagen": "./img/LEVIS/LEVIS (3).jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera levis blanca",
+        "titulo": "Remera Levis color blaco",
+        "imagen": "./img/LEVIS/LEVIS (4).jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera levis california",
+        "titulo": "Remera Levis color blanco california",
+        "imagen": "./img/LEVIS/LEVIS (5).jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+   
+    
+    {
+        "id": "jeans raider",
+        "titulo": "Jean raiders azul chupin hombre",
+        "imagen": "./img/RAIDER/RAIDER (3).jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "jeans levis 1",
+        "titulo": "Jeans levis azul chupin dama",
+        "imagen": "./img/LEVIS/LEVIS (1).jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "jeans levis 1",
+        "titulo": "Jeans levis azul chupin dama 2",
+        "imagen": "./img/LEVIS/LEVIS (2).jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": 1000
+    },
+
+    
+    {
+        "id": "zapa-lacoste",
+        "titulo": "Zapatilla lacoste blanca",
+        "imagen": "./img/LACOSTE/LACOSTE (1).jpg",
+        "categoria": {
+            "nombre": "Zapatillas Lacoste",
+            "id": "zapa-lacoste"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "zapa-lacoste",
+        "titulo": "Zapatilla lacoste verde agua",
+        "imagen": "./img/LACOSTE/LACOSTE (4).jpg",
+        "categoria": {
+            "nombre": "Zapatillas Lacoste",
+            "id": "zapa-lacoste"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "zapa-lacoste",
+        "titulo": "Zapatilla lacoste negra",
+        "imagen": "./img/LACOSTE/LACOSTE (6).jpg",
+        "categoria": {
+            "nombre": "Zapatillas Lacoste",
+            "id": "zapa-lacoste"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "zapa-lacoste",
+        "titulo": "Zapatilla lacoste verde agua 2",
+        "imagen": "./img/LACOSTE/LACOSTE (7).jpg",
+        "categoria": {
+            "nombre": "Zapatillas Lacoste",
+            "id": "zapa-lacoste"
+        },
+        "precio": 1000
+    },
+
+    
+    {
+        "id": "zapa-topper banco/negro",
+        "titulo": "Zapatilla Topper blanco/negro",
+        "imagen": "./img/TOPPER/TOPPER (1).jpg",
+        "categoria": {
+            "nombre": "Zapatillas Topper",
+            "id": "zapa-topper"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "zapa-topper blanco/rosa",
+        "titulo": "Zapatilla Topper blanco/rosa",
+        "imagen": "./img/TOPPER/TOPPER (2).jpg",
+        "categoria": {
+            "nombre": "Zapatillas Topper",
+            "id": "zapa-topper"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "zapa-topper turquesa/blanco",
+        "titulo": "Zapatilla Topper turquesa/blanco",
+        "imagen": "./img/TOPPER/TOPPER (3).jpg",
+        "categoria": {
+            "nombre": "Zapatillas Topper",
+            "id": "zapa-topper"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "zapa-topper rojo/blanco",
+        "titulo": "Zapatilla Topper rojo/blanco",
+        "imagen": "./img/TOPPER/TOPPER (4).jpg",
+        "categoria": {
+            "nombre": "Zapatillas Topper",
+            "id": "zapa-topper"
+        },
+        "precio": 1000
+    }
+]
